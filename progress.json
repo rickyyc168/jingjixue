@@ -1,0 +1,28 @@
+{
+  "course": "经济学课程",
+  "created_at": "2026-04-07T21:16:00+08:00",
+  "updated_at": "2026-04-07T21:29:00+08:00",
+  "stats": {
+    "total": 10,
+    "success": 10,
+    "failed": 0,
+    "skipped": 0
+  },
+  "links": {
+    "processed": [
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=l8lmdz34ZuFSngIcz7woRHIMEmoaCPKq3ow0FTsb0n9",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=mDXVkWhIEaW6T7KFWRg6Sz4eiZH7811rjqqnOqvq8eu",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=McMJHSqQOXfipMSh3NzE9nl48WxryAknPKPSyPe3j6N",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=O3MQgNjyMau0btb29lgTmZT3Jz9KjC4ufRQSmgyJ6MM",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=VVEbCYWegVUna1NdKvRcn6cwWj0bbxIc43LT3Df1N6g",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=68sYJiMWAzUJfuAnP2HmuOfUYB4Jx4wf4ctAbtyrBGE",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=jrhdJUXK6RpWmdqKHcQEvaFpqGtqenS7GSwuD8S4EdM",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=hdqOj98r6TCOuHOHRTH03i9VT4BB6dHXP6wO3uBv3L6",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=sbO2wHRVVZKLyyDPEQMxbcgNfb6D8CT9OXXSSVaQHxR",
+      "https://pan.baidu.com/fcb/s?share_uk=2422031212&share_id=YNHao709CeHXk75IlgNk3vruuCdYNY6ex6khspI5M8r"
+    ],
+    "failed": [],
+    "pending": []
+  },
+  "seen_hashes": []
+}
